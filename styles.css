@@ -328,30 +328,9 @@ body {
     text-align: center;
 }
 
-/* Responsive adjustments */
-@media (max-width: 768px) {
+/* Responsivo ajustes */
+@media (max-width: 980px) {
     .hero-content h1 {
-        font-size: 36px;
-    }
-    
-    .overlay-text h3 {
-        font-size: 24px;
-    }
-    
-    .nav a {
-        margin: 0 15px;
-        font-size: 12px;
-    }
-    
-    .section {
-        padding: 50px 0;
-    }
-    
-    .contact-details {
-        margin-bottom: 30px;
-    }
-    
-    .day {
-        width: 40%;
-    }
+        font-size: 60px;
+    }                  
 }
